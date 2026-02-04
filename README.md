@@ -1,6 +1,15 @@
-# Vue 3 + Vite
+# Task
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Provided with a Reports dataset implement display and filtering 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-# vuejs-live-coding
+* search by reporter name (via text search)
+* filter by report category (via dropdown)
+* filter by anonymous (checkbox)
+
+Report structure
+- name (string)
+- reporter
+  - name
+  - email
+  - phone
+- category (string)
