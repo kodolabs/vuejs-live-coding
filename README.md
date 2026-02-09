@@ -13,3 +13,5 @@ Report structure
   - email
   - phone
 - category (string)
+
+JSON data: https://new.kodolabs.com/reports.json
